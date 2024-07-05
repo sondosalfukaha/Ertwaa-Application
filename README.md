@@ -1,2 +1,2 @@
 # Ertwaa-Application
-Development applicationinitiative
+Development application for Ertwaa's initiative
